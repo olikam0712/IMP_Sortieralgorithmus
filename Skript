@@ -3,5 +3,9 @@ Gliederung:
 - Einleitung
 1. Thema nennen
 2. Beispiele wo man ihnen begegnet, z.b. Datei Explorer
-3. "Als Programmierer verwendet man dafür .sort, heute zeige ich was dahinter steckt"
+- Hauptteil
+1. Bubble Sort
+2. Insertion Sort
+3. Selection Sort
+4. Verwendung mit .sort als Programmierer
 
