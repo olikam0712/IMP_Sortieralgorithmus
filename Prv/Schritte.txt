@@ -25,3 +25,6 @@ Selection Sort:
     6. Tausche das kleinste Element mit dem zweiten Element in der Liste.
     7. Wiederhole die Schritte 4-6, bis die gesamte Liste sortiert ist.
     8. Nach Abschluss des Sortierprozesses ist die Liste in aufsteigender Reihenfolge geordnet.
+
+Visualisierung:
+    https://www.hackerearth.com/practice/algorithms/sorting/insertion-sort/visualize/
