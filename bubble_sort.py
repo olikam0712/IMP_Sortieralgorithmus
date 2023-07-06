@@ -1,3 +1,5 @@
+# Der Bubble Sort
+
 def bubble_sort(liste):
     n = len(liste)
     for i in range(n-1):  # Durchlaufe die Liste n-1 Mal
@@ -6,6 +8,6 @@ def bubble_sort(liste):
                 liste[j], liste[j+1] = liste[j+1], liste[j]  # Tausche die beiden Elemente
 
 # Beispielverwendung:
-arr = [64, 34, 25, 12, 22, 11, 90]
-bubble_sort(arr)
-print("Sortierte Liste: ", arr)
+arr = [64, 34, 25, 12, 22, 11, 90] # Liste definieren
+bubble_sort(arr) # Sortieren
+print("Sortierte Liste: ", arr) # Liste in der Konsole ausgeben
